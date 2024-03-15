@@ -163,7 +163,7 @@ class _LoginPageState extends State<LoginPage> {
                       SizedBox(height: 20.0),
                       ElevatedButton(
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.blue,
+                           backgroundColor: Colors.blue,
                           padding: EdgeInsets.symmetric(vertical: 16.0),
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10.0),
@@ -187,7 +187,7 @@ class _LoginPageState extends State<LoginPage> {
                         children: [
                           ElevatedButton.icon(
                             style: ElevatedButton.styleFrom(
-                              primary: const Color.fromARGB(255, 248, 245, 245),
+                               backgroundColor: const Color.fromARGB(255, 248, 245, 245),
                               shape: RoundedRectangleBorder(
                                 borderRadius: BorderRadius.circular(10.0),
                               ),
@@ -208,7 +208,7 @@ class _LoginPageState extends State<LoginPage> {
                           ),
                           ElevatedButton.icon(
                             style: ElevatedButton.styleFrom(
-                              primary: Color.fromARGB(255, 95, 196, 255),
+                               backgroundColor: Color.fromARGB(255, 95, 196, 255),
                               shape: RoundedRectangleBorder(
                                 borderRadius: BorderRadius.circular(10.0),
                               ),
