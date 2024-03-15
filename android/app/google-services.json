@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252552655289",
+    "project_id": "spriteofai",
+    "storage_bucket": "spriteofai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252552655289:android:4f0f1be8e1331f4c76c668",
+        "android_client_info": {
+          "package_name": "com.example.spriteodai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCQ3jQGnmegZSF7jzi2h2uLfasE1yCEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
